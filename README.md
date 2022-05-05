@@ -2,8 +2,7 @@
 
 ### Projeto [DoctorCare](https://www.figma.com/community/file/1102912263666619803), sendo feito na [NLW Return](https://lp.rocketseat.com.br/nlw-return) (Next Level Week #8) da [:rocket:Rocketseat](https://www.rocketseat.com.br). 
 
-### Os médicos da [DoctorCare](https://doctorcare.com.br), vão além dos sintomas para tratar a causa raiz de sua doença e proporcionar uma cura a longo prazo. 
-
+## Os médicos da DoctorCare vão além dos sintomas para tratar a causa raiz de sua doença e proporcionar uma cura a longo prazo.
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -19,10 +18,9 @@
 </p>
 
 <br>
-
-<p align="center">
-  <img alt="DoctorCare" src=".github/preview.jpg" width="100%">
-</p>
+<!-- <p align="center"> (imagem)
+  <img alt="DoctorCare" src=".gi" width="100%">
+</p> -->
 
 ## 🚀 Tecnologias
 
@@ -47,4 +45,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Feito com 💜 com Rocketseat 
+Feito com 💜 by Rocketseat 
