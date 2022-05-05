@@ -33,7 +33,7 @@ Os médicos da DoctorCare vão além dos sintomas para tratar a causa raiz de su
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1102912263666619803). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto [clique aqui](https://www.figma.com/community/file/1102912263666619803). É necessário ter conta no [Figma](https://figma.com) para poder acessá-lo.
 
 ## 📝 Licença
 
