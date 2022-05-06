@@ -2,6 +2,10 @@
 
 ### Projeto [DoctorCare](https://www.figma.com/community/file/1102912263666619803), sendo feito na [NLW Return](https://lp.rocketseat.com.br/nlw-return) (Next Level Week #8) da [Rocketseat](https://www.rocketseat.com.br). 
 
+<h1 align="center">
+ <img src="https://i.imgur.com/c0O8BBD.png" alt="imagem" width="500"/>  
+</h1>
+
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
