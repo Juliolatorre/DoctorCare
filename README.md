@@ -1,14 +1,11 @@
 # DoctorCare
 
-### Projeto [DoctorCare](https://www.figma.com/community/file/1102912263666619803), sendo feito na [NLW Return](https://lp.rocketseat.com.br/nlw-return) (Next Level Week #8) da [Rocketseat](https://www.rocketseat.com.br). 
+### Projeto [DoctorCare](https://www.figma.com/community/file/1102912263666619803), feito na [NLW Return](https://lp.rocketseat.com.br/nlw-return) (Next Level Week #8) da [Rocketseat](https://www.rocketseat.com.br) durante os dias 02 a 08 de Maio de 2022. 
 
 ## 📋 Sobre
 
-O **DoctorCare** é um projeto que visa facilitar as suas consultas médicas.
-
-Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 02 a 08 de Maio de 2022.
-
-Projeto da **Next Level Week return #8.**
+O **DoctorCare** é um projeto que visa facilitar as suas consultas médicas, através de um agendamento eficiente.
+E também com um atendimento especializado onde os médicos da DoctorCare vão além dos sintomas para tratar a causa raiz de sua doença e proporcionar uma cura a longo prazo.
 
 <h1 align="center">
  <img src="https://i.imgur.com/c0O8BBD.png" alt="imagem" width="500"/>  
@@ -16,8 +13,7 @@ Projeto da **Next Level Week return #8.**
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -38,10 +34,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - JavaScript
 - [ScrollReveal](https://scrollrevealjs.org/)
-
-## 💻 Projeto
-
-Os médicos da DoctorCare vão além dos sintomas para tratar a causa raiz de sua doença e proporcionar uma cura a longo prazo.
 
 ## 🔖 Layout
 
