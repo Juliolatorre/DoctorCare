@@ -2,6 +2,14 @@
 
 ### Projeto [DoctorCare](https://www.figma.com/community/file/1102912263666619803), sendo feito na [NLW Return](https://lp.rocketseat.com.br/nlw-return) (Next Level Week #8) da [Rocketseat](https://www.rocketseat.com.br). 
 
+## 📋 Sobre
+
+O **DoctorCare** é um projeto que visa facilitar as suas consultas médicas.
+
+Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 02 a 08 de Maio de 2022.
+
+Projeto da **Next Level Week return #8.**
+
 <h1 align="center">
  <img src="https://i.imgur.com/c0O8BBD.png" alt="imagem" width="500"/>  
 </h1>
